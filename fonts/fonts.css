@@ -1,0 +1,16 @@
+
+@font-face{
+  font-family:'iran_sans';
+  src:url(iran_sans.woff);src:url(iran_sans.eot?#iefix) format("embedded-opentype"),
+url(iran_sans.woff) format("woff"),url(iran_sans.ttf) format("truetype"),url(iran_sans.svg#iran_sans) format("svg");
+  font-weight:normal;
+  font-style:normal
+}
+@font-face{
+  font-family:'yekan';
+  src:url(yekan.woff);src:url(yekan.eot?#iefix) format("embedded-opentype"),
+url(yekan.woff) format("woff"),url(yekan.ttf) format("truetype"),url(yekan.svg#yekan) format("svg");
+  font-weight:normal;
+  font-style:normal;
+}
+
